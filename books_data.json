@@ -6,7 +6,7 @@
     "pages": 192, 
     "colors": ["0xFF603893", "0xFFBD1451"],
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
-    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/1am/main/Arabic_Cover.jpg"
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "pages": 150, 
     "colors": ["0xFFEF4444", "0xFF7F1D1D"],
     "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
-    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
+    "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/Arabic_Cover.jpg"
   },
   {
     "id": "3",
