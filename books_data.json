@@ -4,7 +4,7 @@
     "title": "كتاب الرياضيات",
     "author": "السنة الأولى متوسط",
     "pages": 192, 
-    "colors": ["0xFF64489D", "0xFF493573"],
+    "colors": ["0xFF64489D", "0xFF2E1D4A"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Mathematics_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/1am/main/Arabic_Cover.jpg"
   },
@@ -13,7 +13,7 @@
     "title": "كتاب الأمازيغية",
     "author": "السنة الأولى متوسط",
     "pages": 150, 
-    "colors": ["0xFFB85A3F", "0xFFB0634C"],
+    "colors": ["0xFFDD7A5D", "0xFF7A3E2B"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Tamazight_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/Arabic_Cover.jpg"
   },
@@ -22,7 +22,7 @@
     "title": "كتاب الإنجليزية",
     "author": "السنة الأولى متوسط",
     "pages": 160, 
-    "colors": ["0xFFF18A14", "0xFFB5680F"],
+    "colors": ["0xFFF28914", "0xFF8A4D06"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/English_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -31,7 +31,7 @@
     "title": "كتاب التربية المدنية",
     "author": "السنة الأولى متوسط",
     "pages": 210, 
-    "colors": ["0xFFE0D3CD", "0xFFA89F9A"],
+    "colors": ["0xFF4AA77A", "0xFF1F4D37"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Civics_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -40,7 +40,7 @@
     "title": "كتاب الجغرافيا",
     "author": "السنة الأولى متوسط",
     "pages": 90, 
-    "colors": ["0xFF52BDDD", "0xFF377E94"],
+    "colors": ["0xFF01B2DB", "0xFF005B73"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Geography_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -49,7 +49,7 @@
     "title": "كتاب اللغة العربية",
     "author": "السنة الأولى متوسط",
     "pages": 140, 
-    "colors": ["0xFFA8C27B", "0xFF6C7D4F"],
+    "colors": ["0xFF87A977", "0xFF3F5A3D"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Arabic_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -58,7 +58,7 @@
     "title": "كتاب العلوم الطبيعية",
     "author": "السنة الأولى متوسط",
     "pages": 120, 
-    "colors": ["0xFFB8B57E", "0xFF8A875E"],
+    "colors": ["0xFF07A79D", "0xFF045E59"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Science_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -67,7 +67,7 @@
     "title": "كتاب التاريخ",
     "author": "السنة الأولى متوسط",
     "pages": 120, 
-    "colors": ["0xFFB07549", "0xFF7A5133"],
+    "colors": ["0xFF704A26", "0xFF2E1A10"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/History_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -76,7 +76,7 @@
     "title": "كتاب التربية الإسلامية",
     "author": "السنة الأولى متوسط",
     "pages": 120, 
-    "colors": ["0xFFBCA488", "0xFF857460"],
+    "colors": ["0xFFBCA488", "0xFF7A5F46"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Islamic_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -85,7 +85,7 @@
     "title": "كتاب الفرنسية",
     "author": "السنة الأولى متوسط",
     "pages": 110, 
-    "colors": ["0xFF78223F", "0xFF52172B"],
+    "colors": ["0xFF792242", "0xFF2A0C15"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/French_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -94,7 +94,7 @@
     "title": "كتاب العلوم الفيزيائية",
     "author": "السنة الأولى متوسط",
     "pages": 110, 
-    "colors": ["0xFF000F26", "0xFF00010E"],
+    "colors": ["0xFFDF0689", "0xFF5A0035"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Physics_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
@@ -103,7 +103,7 @@
     "title": "كتاب التربية التشكيلية",
     "author": "السنة الأولى متوسط",
     "pages": 110, 
-    "colors": ["0xFFFFCF51", "0xFFB8953A"],
+    "colors": ["0xFFF05C2C", "0xFF7A1E10"],
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Drawing_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   }
