@@ -5,7 +5,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 192, 
     "colors": ["0xFF603893", "0xFFBD1451"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Mathematics_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/1am/main/Arabic_Cover.jpg"
   },
   {
@@ -14,7 +14,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 150, 
     "colors": ["0xFFEF4444", "0xFF7F1D1D"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Tamazight_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/Arabic_Cover.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 160, 
     "colors": ["0xFFF99D1C", "0xFF4D539E"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/English_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -32,7 +32,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 210, 
     "colors": ["0xFF4CA076", "0xFFD62027"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Civics_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -41,7 +41,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 90, 
     "colors": ["0xFF00ADEE", "0xFF0072BC"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Geography_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -50,7 +50,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 140, 
     "colors": ["0xFF96C283", "0xFFE11D3F"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Arabic_Cover",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -59,7 +59,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 120, 
     "colors": ["0xFF8B5CF6", "0xFF4C1D95"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Science_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -68,7 +68,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 120, 
     "colors": ["0xFFB88C5E", "0xFF6B4527"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/History_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -77,7 +77,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 120, 
     "colors": ["0xFFCBB293", "0xFFE8CA7A"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Islamic_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -86,7 +86,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 110, 
     "colors": ["0xFF8D1C59", "0xFFFCE139"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/French_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -95,7 +95,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 110, 
     "colors": ["0xFF75247B", "0xFF041026"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Physics_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   },
   {
@@ -104,7 +104,7 @@
     "author": "السنة الأولى متوسط",
     "pages": 110, 
     "colors": ["0xFFFAA61A", "0xFFE35225"],
-    "img": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?q=80&w=400",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Drawing_Cover.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/onefd.pdf"
   }
 ]
