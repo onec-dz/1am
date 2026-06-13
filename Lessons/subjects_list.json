@@ -1,12 +1,16 @@
 [
   {"name": "الرياضيات", "jsonFile": "Mathematics_lessons.json"},
+  {"name": "اللغة العربية", "jsonFile": "Arabic_lessons.json"},
+  {"name": "علوم الطبيعة والحياة", "jsonFile": "Science_lessons.json"},
   {"name": "العلوم الفيزيائية", "jsonFile": "Physics_lessons.json"},
-  {"name": "علوم الطبيعة والحياة", "jsonFile": "Science_lessons.json"},
-  {"name": "اللغة العربية", "jsonFile": "Arabic_lessons.json"},
-  {"name": "اللغة الأمازيغية", "jsonFile": "Tamazight_lessons.json"},
+  {"name": "اللغة الفرنسية", "jsonFile": "French_lessons.json"},
+  {"name": "اللغة الإنجليزية", "jsonFile": "English_lessons.json"},
+  {"name": "التربية المدنية", "jsonFile": "Civics_lessons.json"},
+  {"name": "التاريخ", "jsonFile": "History_lessons.json"},
+  {"name": "الجغرافيا", "jsonFile": "Geography_lessons.json"},
+  {"name": "التربية الإسلامية", "jsonFile": "Islamic_lessons.json"},
+  {"name": "الإعلام الآلي", "jsonFile": "Computer_Science_lessons.json"},
+  {"name": "التربية الفنية", "jsonFile": "Drawing_lessons.json"},
   {"name": "التربية الموسيقية", "jsonFile": "Music_lessons.json"},
-  {"name": "علوم الطبيعة والحياة", "jsonFile": "Science_lessons.json"},
-  {"name": "اللغة العربية", "jsonFile": "Arabic_lessons.json"},
-  {"name": "اللغة الأمازيغية", "jsonFile": "Tamazight_lessons.json"},
-  {"name": "التربية الموسيقية", "jsonFile": "Music_lessons.json"}
+  {"name": "اللغة الأمازيغية", "jsonFile": "Tamazight_lessons.json"}
 ]
