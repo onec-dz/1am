@@ -1,10 +1,10 @@
 [
   {
-    "id": "3",
-    "subject": "علوم الطبيعة والحياة",
+    "id": "14",
+    "subject": "اللغة الأمازيغية",
     "author": "وزارة التربية الوطنية",
-    "img": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/images/science_card.png",
-    "colors": ["0xFF10B981", "0xFF064E3B"],
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Tamazight_Cover.jpg",
+    "colors": ["0xFFDD7A5D", "0xFF7A3E2B"],
     "fields": [
       {
         "fieldName": "الميدان الأول: الإنسان والصحة 🌱",
