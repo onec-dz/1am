@@ -1,8 +1,12 @@
 [
-  {"name": "الرياضيات", "badge": "📐 جيل ثاني شامل", "emoji": "📐", "jsonFile": "Mathematics_lessons.json"},
-  {"name": "العلوم الفيزيائية", "badge": "🧪 مراجعة القوانين", "emoji": "🧪", "jsonFile": "Physics_lessons.json"},
-  {"name": "علوم الطبيعة والحياة", "badge": "🌱 ملخصات العلوم", "emoji": "🌱", "jsonFile": "Science_lessons.json"},
-  {"name": "اللغة العربية", "badge": "📚 قواعد النحو والبلاغة", "emoji": "📚", "jsonFile": "Arabic_lessons.json"},
-  {"name": "اللغة الأمازيغية", "badge": "♓ الملخصات الحصرية", "emoji": "♓", "jsonFile": "Tamazight_lessons.json"},
-  {"name": "التربية الموسيقية", "badge": "🎵 أنغام الجيل الصاعد", "emoji": "🎵", "jsonFile": "Music_lessons.json"}
+  {"name": "الرياضيات", "jsonFile": "Mathematics_lessons.json"},
+  {"name": "العلوم الفيزيائية", "jsonFile": "Physics_lessons.json"},
+  {"name": "علوم الطبيعة والحياة", "jsonFile": "Science_lessons.json"},
+  {"name": "اللغة العربية", "jsonFile": "Arabic_lessons.json"},
+  {"name": "اللغة الأمازيغية", "jsonFile": "Tamazight_lessons.json"},
+  {"name": "التربية الموسيقية", "jsonFile": "Music_lessons.json"},
+  {"name": "علوم الطبيعة والحياة", "jsonFile": "Science_lessons.json"},
+  {"name": "اللغة العربية", "jsonFile": "Arabic_lessons.json"},
+  {"name": "اللغة الأمازيغية", "jsonFile": "Tamazight_lessons.json"},
+  {"name": "التربية الموسيقية", "jsonFile": "Music_lessons.json"}
 ]
