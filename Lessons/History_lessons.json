@@ -1,1 +1,40 @@
+[
+  {
+    "id": "8",
+    "subject": "التاريخ",
+    "author": "وزارة التربية الوطنية",
+    "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/History_Cover.jpg",
+    "colors": ["0xFF704A26", "0xFF2E1A10"],
+    "fields": [
+      {
+        "fieldName": "الميدان الأول: الإنسان والصحة 🌱",
+        "colors": ["0xFF064E3B", "0xFF065F46"],
+        "lessons": [
+          {
+            "title": "الدرس 1: مصدر وتركيب الأغذية ومكوناتها",
+            "subtitle": "تصنيف الأغذية حسب الأصل النباتي والحيواني والمعدني",
+            "size": "2.9 MB",
+            "pages": 14,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l1.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثاني: الإنسان والمحيط 🌍",
+        "colors": ["0xFF84CC16", "0xFF365314"],
+        "lessons": [
+          {
+            "title": "الدرس 1: النبات الأخضر المعرض للضوء",
+            "subtitle": "مفهوم التركيب الضوئي وامتصاص الأملاح المعدنية والماء",
+            "size": "2.5 MB",
+            "pages": 12,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l3.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      }
+    ]
+  }
+]
 
