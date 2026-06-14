@@ -2,18 +2,15 @@
   {
     "id": "4",
     "subject": "العلوم الفيزيائية",
-    "author": "وزارة التربية الوطنية",
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Physics_Cover.jpg",
     "colors": ["0xFFDF0689", "0xFF5A0035"],
     "fields": [
       {
-        "fieldName": "الميدان الأول: الإنسان والصحة 🌱",
+        "fieldName": "الميدان الأول: المادة وتحولاتها",
         "colors": ["0xFF064E3B", "0xFF065F46"],
         "lessons": [
           {
             "title": "الدرس 1: مصدر وتركيب الأغذية ومكوناتها",
-            "subtitle": "تصنيف الأغذية حسب الأصل النباتي والحيواني والمعدني",
-            "size": "2.9 MB",
             "pages": 14,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l1.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
@@ -21,13 +18,23 @@
         ]
       },
       {
-        "fieldName": "الميدان الثاني: الإنسان والمحيط 🌍",
+        "fieldName": "الميدان الثاني: الظواهر الكهربائية",
+        "colors": ["0xFF064E3B", "0xFF065F46"],
+        "lessons": [
+          {
+            "title": "الدرس 1: مصدر وتركيب الأغذية ومكوناتها",
+            "pages": 14,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l1.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثالث: الظواهر الضوئية والفلكية",
         "colors": ["0xFF84CC16", "0xFF365314"],
         "lessons": [
           {
             "title": "الدرس 1: النبات الأخضر المعرض للضوء",
-            "subtitle": "مفهوم التركيب الضوئي وامتصاص الأملاح المعدنية والماء",
-            "size": "2.5 MB",
             "pages": 12,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l3.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
