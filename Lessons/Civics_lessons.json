@@ -2,18 +2,15 @@
   {
     "id": "7",
     "subject": "التربية المدنية",
-    "author": "وزارة التربية الوطنية",
     "img": "https://raw.githubusercontent.com/onec-dz/1am/main/Books/Civics_Cover.jpg",
     "colors": ["0xFF4AA77A", "0xFF1F4D37"],
     "fields": [
       {
-        "fieldName": "الميدان الأول: الإنسان والصحة 🌱",
-        "colors": ["0xFF064E3B", "0xFF065F46"],
+        "fieldName": "الميدان الأول: الحياة الجماعية",
+        "colors": ["0xFF5E8625", "0xFF2B3F10"],
         "lessons": [
           {
             "title": "الدرس 1: مصدر وتركيب الأغذية ومكوناتها",
-            "subtitle": "تصنيف الأغذية حسب الأصل النباتي والحيواني والمعدني",
-            "size": "2.9 MB",
             "pages": 14,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l1.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
@@ -21,13 +18,23 @@
         ]
       },
       {
-        "fieldName": "الميدان الثاني: الإنسان والمحيط 🌍",
-        "colors": ["0xFF84CC16", "0xFF365314"],
+        "fieldName": "الميدان الثاني: الحياة المدنية",
+        "colors": ["0xFF9C3D26", "0xFF4A1C11"],
+        "lessons": [
+          {
+            "title": "الدرس 1: مصدر وتركيب الأغذية ومكوناتها",
+            "pages": 14,
+            "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l1.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          }
+        ]
+      },
+      {
+        "fieldName": "الميدان الثالث: الحياة الديمقراطية ومؤسسات الجمهورية",
+        "colors": ["0xFFC8771B", "0xFF5E370C"],
         "lessons": [
           {
             "title": "الدرس 1: النبات الأخضر المعرض للضوء",
-            "subtitle": "مفهوم التركيب الضوئي وامتصاص الأملاح المعدنية والماء",
-            "size": "2.5 MB",
             "pages": 12,
             "pdfUrl": "https://raw.githubusercontent.com/onec-dz/algeria_books/main/pdfs/science_l3.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
